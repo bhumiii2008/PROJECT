@@ -1,0 +1,6 @@
+
+
+name=str(input("Enter name of the user"))
+month=str(input("Enter the birth month of the user"))
+year=str(input("enter the year of your birth year"))  
+print("password = ", name[2] + month[1] + " @"+ year)
